@@ -8,6 +8,7 @@ DAM course final project based on OSS
 
 
 <hr>
+
 配置运行方式
 
 STEP 1: 在本地数据库（推荐MySQL）中执行gamehub.sql文件建表。

@@ -7,6 +7,7 @@ DAM course final project based on OSS
 支持内容管理及检索、资源下载、多人协作、权限控制、日志记录等功能。
 
 
+<hr>
 配置运行方式
 
 STEP 1: 在本地数据库（推荐MySQL）中执行gamehub.sql文件建表。
